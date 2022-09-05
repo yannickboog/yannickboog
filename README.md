@@ -1,7 +1,7 @@
 Hi! My name is Yannick Boog
 ====================================================================================================================================
 
-* 🌍  I'm based in Germany, BW
+* 🌍  I'm based in 🇩🇪, BW
 * 🖥️  See my portfolio at [yannick.xyz](http://yannick.xyz)
 * ✉️  You can contact me at [eWFubmljay5ib29nQHBtLm1l](mailto:eWFubmljay5ib29nQHBtLm1l)
 
